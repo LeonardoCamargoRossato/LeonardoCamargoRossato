@@ -39,6 +39,14 @@ Scientific computing, numerical modeling, autonomous systems and quantum technol
 </tr>
 </table>
 
+## Project Portfolio
+
+<p align="center">
+  <img src="./assets/project-portfolio.png" alt="Leonardo Camargo Rossato — Project Portfolio" width="100%" />
+</p>
+
+<p align="center"><sub>Projects organized by Tier — from featured applications and engineering work to technical, academic and historical repositories.</sub></p>
+
 ## Featured Projects
 
 <table>
