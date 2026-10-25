@@ -6,7 +6,8 @@
 
 **Building intelligent systems, data-driven applications and digital products — from scientific computing to production-ready solutions.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://leonardo-camargo-rossato.lovable.app/)
+[![Technical Portfolio](https://img.shields.io/badge/Technical_Portfolio-Visit-0A66C2?style=for-the-badge)](https://leonardocamargorossato.github.io/LCR-SolutionsArchitecture-IA-Quantum/#/)
+[![Speaking Portfolio](https://img.shields.io/badge/Speaking_Portfolio-Visit-6B7280?style=for-the-badge)](https://leonardo-camargo-rossato.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardocamargorossato/)
 [![Instituto Foton](https://img.shields.io/badge/Instituto_Foton-Deep_Tech-111827?style=for-the-badge)](https://institutofoton.com.br/)
 
